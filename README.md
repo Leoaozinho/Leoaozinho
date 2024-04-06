@@ -1,6 +1,6 @@
 ![Headmaster](https://i.pinimg.com/originals/b2/b0/2f/b2b02f3b94075334edb07f8e6f8c0d11.gif)
 <h1 align="center">Hi 👋, I'm Leoaozinho</h1>
-<h3 align="center">Web Developer | HTML5 | TailwindCSS | React.JS | Next.JS | C# | Java</h3>
+<h3 align="center">Web Developer | Angular | TailwindCSS | React.JS | Next.JS | C# | Java</h3>
 
 - 🔭 I’m currently working on [project-ecommerce](https://github.com/Leoaozinho/project-ecommerce)
 
