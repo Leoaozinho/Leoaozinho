@@ -1,7 +1,7 @@
 ![Headmaster](https://i.pinimg.com/originals/b2/b0/2f/b2b02f3b94075334edb07f8e6f8c0d11.gif)
 <h1 align="center">Hi 👋, I'm Leoaozinho</h1>
 <h3 align="center">Web Developer | HTML5 | TailwindCSS | React.JS | Next.JS | C# | Java</h3>
-<img align="right" width="400" alt="coding" src="https://i.pinimg.com/originals/42/74/16/427416cc1714644ca0cea49d4c7096fe.gif"
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/42/74/16/427416cc1714644ca0cea49d4c7096fe.gif">
 
 - 🔭 I’m currently working on [project-ecommerce](https://github.com/Leoaozinho/project-ecommerce)
 
@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leonardo rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo rodrigues" height="30" width="40" /></a>
-<a href="https://discord.gg/_leoaozinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_leoaozinho" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/leonardo10-rodrigues/ "target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo10-rodrigues/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +26,4 @@
 ![Leoaozinho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leoaozinho&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/Leoaozinho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Leoaozinho" /></a></p><br><br>
+<p><a href="https://ko-fi.com/https://ko-fi.com/leoaozinho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/leoaozinho" /></a></p><br><br>
