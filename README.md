@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello World! I'm Leo a brasilean developer and this is my GitHub ❤️:
 📌Currently working on my Discord Bot<br>📚Studying about Automation & Machine Learning <br>💻A Developer since 2022
 
 
