@@ -1,4 +1,4 @@
-# Hello World! I'm Lia a brazilian developer and this is my GitHub
+# Hello World! I'm Lily a brazilian developer and this is my GitHub
 📌Currently working on my Discord Bot<br>📚Studying about Automation & Machine Learning <br>💻A Developer since 2022
 
 
